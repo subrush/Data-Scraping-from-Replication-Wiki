@@ -2,7 +2,7 @@
 Data Scraping from Replication Wiki
 # Replication Type Scraper
 
-This project is a Python-based web scraper that extracts the "Replication type" information from academic paper links. The scraper works by visiting the provided URLs, locating a table with the class `wikitable sortable zebra jquery-tablesorter`, and retrieving the information from the 9th column in the table, which corresponds to the "Replication type".
+This project is a Python-based web scraper that extracts the "Replication type" information from academic paper links. The scraper works by visiting the provided URLs, locating a table with the class `wikitable sortable zebra`, and retrieving the information from the 9th column in the table, which corresponds to the "Replication type".
 
 ## Features
 
